@@ -12,5 +12,8 @@ int main()
 	cin >> x;
 	cin >> y;
 	x = x + y;
-	cout << x;
+	cout << x <<endl;
+	y = x - y;
+	cout << y;
+
 }
