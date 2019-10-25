@@ -9,6 +9,13 @@ int w;
 
 int main()
 {
+
+	switch ()
+		case 6: cout << "przemo to ja" << end;
+case 7: cout << "przemo to nie ja" << endl;
+
+
+
     cout << "Hello World!\n";
 	cin >> x;
 	cin >> y;
@@ -18,4 +25,5 @@ int main()
 	cout << y << endl;
 	w = x * y;
 	cout << "wynik mnożenia: " << w;
+
 }
